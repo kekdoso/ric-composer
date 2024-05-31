@@ -1,5 +1,5 @@
 {
     "files.associations": {
-        "ran_messages.pb-c.h": "c"
+        "gnb_message_handlers.h": "c"
     }
 }
